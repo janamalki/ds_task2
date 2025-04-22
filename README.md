@@ -27,5 +27,6 @@
 > git push
 
 ### Result :
-(ds_task2/bar_chart_category.png)[barchart]!
+
+![image alt ](bar_chart_category.png)
 
