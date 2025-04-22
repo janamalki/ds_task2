@@ -32,3 +32,6 @@
 
 #### grouped_bar_chart
 ![image alt ](grouped_bar_chart.png)
+
+#### pie_chart_category
+![image alt ](pie_chart_category.png)
