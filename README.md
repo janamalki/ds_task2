@@ -26,6 +26,6 @@
 > git commit -m "add files" \
 > git push
 
-##Result :
-(bar_chart_category)[]!
+### Result :
+(bar_chart_category.png)[barchart]!
 
