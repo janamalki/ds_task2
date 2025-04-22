@@ -7,4 +7,4 @@
 
 
 
-[![image1](C:\ds_task2)]()
+[![image1](C:\ds_task2\bar_chart_category)]()
