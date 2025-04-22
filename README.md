@@ -27,6 +27,8 @@
 > git push
 
 ### Result :
-
+#### bar_chart_category
 ![image alt ](bar_chart_category.png)
 
+#### grouped_bar_chart
+![image alt ](grouped_bar_chart.png)
