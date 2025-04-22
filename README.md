@@ -1,12 +1,9 @@
 ## Task2 - Visuallization 
 
 #### Create venv :
+> uv venv 
+> .venv\Scripts\activate
 
-...
-
-uv venv 
-.venv\Scripts\activate
-...
 
 
 
