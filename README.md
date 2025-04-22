@@ -27,5 +27,5 @@
 > git push
 
 ### Result :
-(C:\ds_task2bar_chart_category.png)[barchart]!
+(ds_task2/bar_chart_category.png)[barchart]!
 
