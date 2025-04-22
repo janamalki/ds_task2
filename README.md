@@ -26,16 +26,6 @@
 > git commit -m "add files" \
 > git push
 
-
-
-
-
-
-
-
-
-
-<div>
-  <img src = "C:\ds_task2/bar_chart_category" width = "200px" />
-</div>
+##Result :
+(C:\ds_task2/bar_chart_category)[]!
 
